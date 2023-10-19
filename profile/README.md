@@ -4,7 +4,7 @@ This is a very organised team of rats from the University of São Paulo (USP), t
 
 <h2> Why us? </h2>
 
-Our code is guaranteed to succeed in many wayys possible. If you are looking for dynamic, flexible and easy-to-use code, you are in the right place because our developers already have so much experience in the market.
+Our code is guaranteed to succeed in many ways possible. If you are looking for dynamic, flexible and easy-to-use code, you are in the right place because our developers already have so much experience in the market.
 
 If you aren't looking for anything, you are in the right place too. Be sure to check our things out!
 
