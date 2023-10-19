@@ -12,4 +12,4 @@ If you aren't looking for anything, you are in the right place too. Be sure to c
 
 [João 'Chapéu'](https://github.com/Johhnne)
 
-[Wilson 'Yurnero'](https://github.com/Yurnero-cyber)
+[Wilson 'Yurnero'](https://github.com/Yurnerosk)
